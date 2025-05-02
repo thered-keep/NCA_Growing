@@ -54,4 +54,3 @@ setuptools.setup(
     },
     **setup_cfg)
 
-
